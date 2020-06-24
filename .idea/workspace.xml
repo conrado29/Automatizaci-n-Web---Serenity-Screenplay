@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="304c52c5-1948-452b-a955-a11ab76bc46f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="co.com.choucair.certification.registro" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="co.com.choucair.certification.registro" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="co.com.choucair.certification.registro" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dWOShsrlHJUitlWsiIHiW6lCPC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/co/com/choucair" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2512364" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.com.choucair.certification.registro.userinterface" />
+      <recent name="co.com.choucair.certification.registro.stepdefinitions" />
+      <recent name="co.com.choucair.certification.registro.runners" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.choucair.certification.registro.userinterface" />
+      <recent name="co.com.choucair.certification.registro.questions" />
+      <recent name="co.com.choucair.certification.registro.tasks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;co.com.choucair.certification.registro.runners.RunnerTags&quot; " />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="304c52c5-1948-452b-a955-a11ab76bc46f" name="Default Changelist" comment="" />
+      <created>1592537383101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592537383101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="48" key="#Project_Settings" timestamp="1592887325500">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state x="283" y="48" key="#Project_Settings/0.18.1366.750/1366.48.1280.720@0.18.1366.750" timestamp="1592887325500" />
+    <state x="283" y="48" key="#SonarLint" timestamp="1592887264644">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state x="283" y="48" key="#SonarLint/0.18.1366.750/1366.48.1280.720@0.18.1366.750" timestamp="1592887264644" />
+    <state x="151" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592712494983">
+      <screen x="0" y="18" width="2732" height="750" />
+    </state>
+    <state x="151" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.18.2732.750@0.18.2732.750" timestamp="1592712494983" />
+    <state x="874" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1592802975219">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state x="819" y="174" key="#com.intellij.ide.util.MemberChooser/0.15.1280.753@0.15.1280.753" timestamp="1592543993837" />
+    <state x="874" y="176" key="#com.intellij.ide.util.MemberChooser/0.18.1366.750/1366.48.1280.720@0.18.1366.750" timestamp="1592802975219" />
+    <state x="631" y="229" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1592803863766">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state x="591" y="227" key="#com.intellij.ide.util.PackageChooserDialog/0.15.1280.753@0.15.1280.753" timestamp="1592543790423" />
+    <state x="631" y="229" key="#com.intellij.ide.util.PackageChooserDialog/0.18.1366.750/1366.48.1280.720@0.18.1366.750" timestamp="1592803863766" />
+    <state x="590" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592539149295">
+      <screen x="0" y="15" width="1280" height="753" />
+    </state>
+    <state x="590" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.15.1280.753@0.15.1280.753" timestamp="1592539149295" />
+    <state x="471" y="145" key="FileChooserDialogImpl" timestamp="1592798716988">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state x="471" y="145" key="FileChooserDialogImpl/0.18.1366.750/1366.48.1280.720@0.18.1366.750" timestamp="1592798716988" />
+    <state width="1320" height="187" key="GridCell.Tab.0.bottom" timestamp="1592974840910">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state width="608" height="201" key="GridCell.Tab.0.bottom/0.15.1280.753@0.15.1280.753" timestamp="1592545980037" />
+    <state width="1320" height="187" key="GridCell.Tab.0.bottom/0.18.1366.750/1366.48.1280.720@0.18.1366.750" timestamp="1592974840909" />
+    <state width="1334" height="205" key="GridCell.Tab.0.bottom/0.18.2646.750@0.18.2646.750" timestamp="1592730137017" />
+    <state width="1334" height="205" key="GridCell.Tab.0.bottom/0.18.2732.750@0.18.2732.750" timestamp="1592712501691" />
+    <state width="1320" height="193" key="GridCell.Tab.0.bottom/0.24.1366.744/1366.0.1024.768@0.24.1366.744" timestamp="1592621640039" />
+    <state width="1320" height="187" key="GridCell.Tab.0.center" timestamp="1592974840909">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state width="608" height="201" key="GridCell.Tab.0.center/0.15.1280.753@0.15.1280.753" timestamp="1592545980036" />
+    <state width="1320" height="187" key="GridCell.Tab.0.center/0.18.1366.750/1366.48.1280.720@0.18.1366.750" timestamp="1592974840909" />
+    <state width="1334" height="205" key="GridCell.Tab.0.center/0.18.2646.750@0.18.2646.750" timestamp="1592730137017" />
+    <state width="1334" height="205" key="GridCell.Tab.0.center/0.18.2732.750@0.18.2732.750" timestamp="1592712501691" />
+    <state width="1320" height="193" key="GridCell.Tab.0.center/0.24.1366.744/1366.0.1024.768@0.24.1366.744" timestamp="1592621640039" />
+    <state width="1320" height="187" key="GridCell.Tab.0.left" timestamp="1592974840909">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state width="608" height="201" key="GridCell.Tab.0.left/0.15.1280.753@0.15.1280.753" timestamp="1592545980035" />
+    <state width="1320" height="187" key="GridCell.Tab.0.left/0.18.1366.750/1366.48.1280.720@0.18.1366.750" timestamp="1592974840909" />
+    <state width="1334" height="205" key="GridCell.Tab.0.left/0.18.2646.750@0.18.2646.750" timestamp="1592730137017" />
+    <state width="1334" height="205" key="GridCell.Tab.0.left/0.18.2732.750@0.18.2732.750" timestamp="1592712501690" />
+    <state width="1320" height="193" key="GridCell.Tab.0.left/0.24.1366.744/1366.0.1024.768@0.24.1366.744" timestamp="1592621640039" />
+    <state width="1320" height="187" key="GridCell.Tab.0.right" timestamp="1592974840909">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state width="608" height="201" key="GridCell.Tab.0.right/0.15.1280.753@0.15.1280.753" timestamp="1592545980036" />
+    <state width="1320" height="187" key="GridCell.Tab.0.right/0.18.1366.750/1366.48.1280.720@0.18.1366.750" timestamp="1592974840909" />
+    <state width="1334" height="205" key="GridCell.Tab.0.right/0.18.2646.750@0.18.2646.750" timestamp="1592730137017" />
+    <state width="1334" height="205" key="GridCell.Tab.0.right/0.18.2732.750@0.18.2732.750" timestamp="1592712501691" />
+    <state width="1320" height="193" key="GridCell.Tab.0.right/0.24.1366.744/1366.0.1024.768@0.24.1366.744" timestamp="1592621640039" />
+    <state x="523" y="180" key="chooseDestDirectoryDialog" timestamp="1592713495606">
+      <screen x="0" y="18" width="2646" height="750" />
+    </state>
+    <state x="523" y="180" key="chooseDestDirectoryDialog/0.18.2646.750@0.18.2646.750" timestamp="1592713495606" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/co_com_choucair_certification_registro$RunnerTags.ic" NAME="RunnerTags Coverage Results" MODIFIED="1592545902062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
